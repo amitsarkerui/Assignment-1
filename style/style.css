@@ -81,3 +81,37 @@
     color: #444343;
     margin-bottom: 8px;
 }
+.myPlan{
+    margin-top: 130px;
+}
+.myPlan h2{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.myPlanWrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 80px;
+    text-align: center;
+}
+/* .myPlanDetails img{
+    text-align: center; */
+
+.myPlanDetails h3{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+.myPlanDetails p{
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+     color: #737272;
+}
+/* -----My Plans section end----- */
