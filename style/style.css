@@ -9,7 +9,7 @@
     margin: 0 auto;
 }
 .heroArea{
-    background-image: url('/images/banner/banner1.png');
+    background-image: url('../images/banner/banner1.png');
     height: 80vh;
     background-repeat: no-repeat;
     background-size: cover;
