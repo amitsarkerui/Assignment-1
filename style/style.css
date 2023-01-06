@@ -44,3 +44,40 @@
     border-radius: 5px;
 
 }
+/* -----Failures Section Start----- */
+
+.failures{
+    margin-top: 130px;
+}
+.failuresWrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:80px ;
+}
+.failuresWrapper h2{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    width: 290px;
+    margin-bottom: 30px;
+}
+.failuresWrapper p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+.failuresWrapper ul{
+    margin-left: 16px;
+    list-style-image: url('../images/check-mark.png');
+}
+.failuresWrapper ul li{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 8px;
+}
