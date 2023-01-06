@@ -115,3 +115,33 @@
      color: #737272;
 }
 /* -----My Plans section end----- */
+
+.cta{
+    margin-top: 130px;
+}
+.ctaWrapper{
+    background-image: url('../images/gradient2.png'), url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    padding: 60px;
+    padding-left: 60px;
+}
+.ctaWrapper h2{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    width: 460px;
+    margin-bottom: 45px;
+}
+.btnSecondery{
+    color:#F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: white;
+    display: inline-block;
+    padding: 20px 36px;
+    border-radius: 5px;
+}
+/* CTA Section end */
