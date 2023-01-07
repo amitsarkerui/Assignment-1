@@ -81,6 +81,35 @@
     color: #444343;
     margin-bottom: 8px;
 }
+/* -----Failures Section End----- */
+
+
+/* ----- Counter section end -----*/
+.counter{
+    background-color: #F15B22;
+    margin-top: 130px;
+    background-image: url('../images/wave-8.png');
+
+}
+.counterWrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 114px 0;
+}
+.counterWrapper h3{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.counterWrapper p{
+    font-weight: 500;
+    font-size: 20px;
+    color: #ebebeb;
+}
+
+/* -----Counter section end----- */
+
 .myPlan{
     margin-top: 130px;
 }
@@ -144,7 +173,7 @@
     padding: 20px 36px;
     border-radius: 5px;
 }
-/* CTA Section end */
+/* -----CTA Section end----- */
 
 .footer{
     margin-top: 130px;
@@ -192,4 +221,4 @@
     padding-right: 160px;
     margin-bottom: 16px;
 }
-/* Footer End */
+/* -----Footer End----- */
